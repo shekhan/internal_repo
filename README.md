@@ -1,4 +1,0 @@
-teamrepo
-========
-
-Team repository
